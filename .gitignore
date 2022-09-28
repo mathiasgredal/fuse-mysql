@@ -1,0 +1,5 @@
+db/
+mnt/
+venv/
+.vscode/
+__pycache__/
